@@ -84,10 +84,10 @@ export default function EvaluationMetrics() {
                 </div>
 
                 <div className="consideration">
-                    <p className="consideration-title">Imbalanced Datasets</p>
+                    <p className="consideration-title">Cost Sensitivity</p>
                     <p className="consideration-info">
-                        When evaluating phishing detection systems, it&#34;s important to consider the balance between phishing and legitimate 
-                        emails in the dataset. Metrics like precision, recall, and F1-score are especially valuable in imbalanced scenarios.
+                        Depending on the application, the costs associated with false positives and false negatives may vary. 
+                        Evaluating system performance using metrics that account for these costs can provide a more meaningful assessment.
                     </p>
                 </div>
             </div>

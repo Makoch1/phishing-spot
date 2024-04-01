@@ -14,7 +14,7 @@ const contents = {
         "Real-Time Detection Systems",
         "Focus on User Education and Awareness",
         "Advanced Threat Intelligence Sharing",
-        "Conscious Innovation and Research"
+        "Continuous Innovation and Research"
     ]
 }
 

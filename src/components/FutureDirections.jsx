@@ -20,7 +20,7 @@ export default function FutureDirections() {
                     <a href="#Advanced Threat Intelligence Sharing">Advanced Threat Intelligence Sharing</a>
                 </li>
                 <li>
-                    <a href="#Conscious Innovation and Research">Conscious Innovation and Research</a>
+                    <a href="#Continuous Innovation and Research">Continuous Innovation and Research</a>
                 </li>
             </ul>
 
@@ -56,8 +56,8 @@ export default function FutureDirections() {
                         enhances situational awareness, and strengthens collective defense against phishing and other cyber threats.
                     </p>
                 </div>
-                <div id="Conscious Innovation and Research" className="future-direction">
-                    <p className="future-title">Conscious Innovation and Research</p>
+                <div id="Continuous Innovation and Research" className="future-direction">
+                    <p className="future-title">Continuous Innovation and Research</p>
                     <p className="future-info">
                         Encouraging ongoing research and innovation in phishing detection techniques, tools, and methodologies. 
                         This could drive advancements in cybersecurity capabilities, fosters resilience against evolving threats, 
